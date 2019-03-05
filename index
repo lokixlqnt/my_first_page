@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <meta name="description" content="le contenu de ma page en quelques mots">
+	<meta name="author" content="Mon nom ou ma société">
+  <link rel="stylesheet" href="stylesheets/style.css">
+  <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+</head>
+
+<body>
+  <header>
+    <div class="logo">
+      <img src="https://image.shutterstock.com/image-vector/abstract-background-cover-flyer-business-450w-1083900461.jpg" alt="Lorem Ipsum">
+    </div>
+    <div class="header">
+      <h1 class="title">LIPSUM</h1>
+    </div>
+    <nav>
+      <ul class="navbar">
+        <li><a href="#lien1" title>Lorem</a></li>
+        <li><a href="#lien2" title>Ipsum</a></li>
+        <li><a href="#lien3" title>dolor</a></li>
+        <li><a href="#lien4" title>sit</a></li>
+        <li><a href="#lien5" title>amet</a></li>
+        <li><a href="#lien6" title>consectetur</a></li>
+        <li><a href="#lien7" title>adipiscing</a></li>
+        <li><a href="#lien8" title>elit</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <div class="text">
+    <p>Phasellus vitae elit erat. Phasellus finibus, ex sed luctus eleifend, eros arcu egestas libero, in feugiat magna lacus a dui. Quisque sollicitudin, magna id semper faucibus, massa libero molestie ipsum, vitae lobortis felis nunc sit amet odio. Sed ut tellus orci. Mauris porttitor, lorem nec iaculis luctus, diam orci scelerisque leo, et auctor erat ex quis purus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nunc convallis hendrerit sapien quis bibendum. Cras rutrum justo odio, sed malesuada urna blandit eget. Aenean malesuada commodo nisi, et auctor lorem. Vestibulum luctus dolor vel arcu cursus, ac gravida sapien blandit. Aliquam et dapibus odio. In quis interdum est. </p>
+  </div>
+
+  <div class="row">
+   <div class="column">
+     <img src="https://media.istockphoto.com/vectors/retro-abstract-geometric-background-the-poster-with-the-flat-figures-vector-id907621380" alt="g1" style="width:100%">
+   </div>
+   <div class="column">
+     <img src="https://media.istockphoto.com/vectors/business-and-marketing-infographic-design-template-vector-id907574942" alt="Forest" style="width:100%">
+   </div>
+   <div class="column">
+     <img src="https://media.istockphoto.com/vectors/minimal-3d-infographic-vector-id1059350776" alt="Mountains" style="width:100%">
+   </div>
+ </div>
+
+ <footer>
+   <div class="footer">
+     <ul>
+       <li><a href="#lien1" title>Lorem</a></li>
+       <li><a href="#lien2" title>Ipsum</a></li>
+       <li><a href="#lien3" title>dolor</a></li>
+       <li><a href="#lien4" title>sit</a></li>
+       <li><a href="#lien5" title>amet</a></li>
+       <li><a href="#lien6" title>consectetur</a></li>
+       <li><a href="#lien7" title>adipiscing</a></li>
+       <li><a href="#lien8" title>elit</a></li>
+     </ul>
+   </div>
+ </footer>
+
+</body>
+</html>
